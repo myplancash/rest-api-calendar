@@ -26,3 +26,6 @@ then,
 ```npm run start```
 
 ### Your book club now has a custom scheduling app to help increase productivity.
+
+
+<img width="1393" alt="Screenshot 2023-08-07 at 6 24 24 PM" src="https://github.com/myplancash/rest-api-calendar/assets/64751892/a6758402-2821-4dd4-934c-c89e487a112b">
